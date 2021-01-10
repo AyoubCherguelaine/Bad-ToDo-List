@@ -1,0 +1,17 @@
+C:\Users\hp\source\repos\TodoListDesktop\TodoListDesktop\bin\Debug\netcoreapp3.1\TodoListDesktop.exe
+C:\Users\hp\source\repos\TodoListDesktop\TodoListDesktop\bin\Debug\netcoreapp3.1\TodoListDesktop.deps.json
+C:\Users\hp\source\repos\TodoListDesktop\TodoListDesktop\bin\Debug\netcoreapp3.1\TodoListDesktop.runtimeconfig.json
+C:\Users\hp\source\repos\TodoListDesktop\TodoListDesktop\bin\Debug\netcoreapp3.1\TodoListDesktop.runtimeconfig.dev.json
+C:\Users\hp\source\repos\TodoListDesktop\TodoListDesktop\bin\Debug\netcoreapp3.1\TodoListDesktop.dll
+C:\Users\hp\source\repos\TodoListDesktop\TodoListDesktop\bin\Debug\netcoreapp3.1\TodoListDesktop.pdb
+C:\Users\hp\source\repos\TodoListDesktop\TodoListDesktop\obj\Debug\netcoreapp3.1\TodoListDesktop.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\TodoListDesktop\TodoListDesktop\obj\Debug\netcoreapp3.1\TodoListDesktop.Form1.resources
+C:\Users\hp\source\repos\TodoListDesktop\TodoListDesktop\obj\Debug\netcoreapp3.1\TodoListDesktop.UserControl1.resources
+C:\Users\hp\source\repos\TodoListDesktop\TodoListDesktop\obj\Debug\netcoreapp3.1\TodoListDesktop.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\TodoListDesktop\TodoListDesktop\obj\Debug\netcoreapp3.1\TodoListDesktop.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\TodoListDesktop\TodoListDesktop\obj\Debug\netcoreapp3.1\TodoListDesktop.AssemblyInfo.cs
+C:\Users\hp\source\repos\TodoListDesktop\TodoListDesktop\obj\Debug\netcoreapp3.1\TodoListDesktop.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\TodoListDesktop\TodoListDesktop\obj\Debug\netcoreapp3.1\TodoListDesktop.dll
+C:\Users\hp\source\repos\TodoListDesktop\TodoListDesktop\obj\Debug\netcoreapp3.1\TodoListDesktop.pdb
+C:\Users\hp\source\repos\TodoListDesktop\TodoListDesktop\obj\Debug\netcoreapp3.1\TodoListDesktop.genruntimeconfig.cache
+C:\Users\hp\source\repos\TodoListDesktop\TodoListDesktop\obj\Debug\netcoreapp3.1\TodoListDesktop.Delet.resources
